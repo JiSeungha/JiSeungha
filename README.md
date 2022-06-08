@@ -2,7 +2,7 @@
 <p align='center'> Wanna Be a Influential Developer </p>
 
 ##Skills
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSeungha)](https://github.com/JiSeungha/github-readme-stats)
 

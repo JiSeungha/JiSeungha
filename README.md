@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JiSeungha%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ji%20Seungha&fontSize=90)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSeungha)](https://github.com/JiSeungha/github-readme-stats)

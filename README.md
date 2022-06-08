@@ -9,10 +9,7 @@
 
 Skills
 ---
-<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat-square&logo=github&logoColor=white">
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat-square&logo=github&logoColor=white">
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiSeungha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

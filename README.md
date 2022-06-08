@@ -7,12 +7,19 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://grave-punishment-236.notion.site/88f5dbbdca044ea7a24ab8d2b82458d9) -->
   
 
-##Skills
+Skills
+---
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat-square&logo=github&logoColor=white">
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiSeungha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSeungha)](https://github.com/JiSeungha/github-readme-stats)
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=li13rary)](https://solved.ac/li13rary)
-
 

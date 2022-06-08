@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji%20Seungha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wanna%20Be%20a%20Influential%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji%20Seungha&fontSize=90&animation=fadeIn&fontAlignY=38)
 <p align='center'> Wanna Be a Influential Developer </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">

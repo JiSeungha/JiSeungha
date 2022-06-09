@@ -13,7 +13,12 @@ Skills
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-0769AD?logo=c%2B%2B&style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html-F7DF1E?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-E34F26?style=flat-square&logo=css3&logoColor=white">
 
 ---
-
+Interests
+- Graphics
+- Machine Learning
+- Deep Learning
+- Computer Security
+- Financial Security
 
 ---
 

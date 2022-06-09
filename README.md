@@ -15,6 +15,7 @@ Skills
 ---
 Interests
 - Graphics
+- Front-end
 - Machine Learning
 - Deep Learning
 - Computer Security

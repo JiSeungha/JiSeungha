@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji%20Seungha&fontSize=90&animation=fadeIn&fontAlignY=38)
-<font size="6" align='center'> I can sleep all day </font>
+<p style="font-size:24px text-align:center;"> I can sleep all day </p>
 
 📞 Contacts : 
 

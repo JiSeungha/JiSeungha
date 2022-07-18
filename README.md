@@ -37,7 +37,9 @@ ML
 # Goals
 - 2022
 - [ ] Baekjoon Online Judge : Gold
-- [ ] 
+- [ ] Get Engineer Information Processing licence
+- [ ] Get CPPG licence
+- [ ] TOEIC over 900
 
 
 ---

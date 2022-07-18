@@ -7,6 +7,7 @@
  https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ji.__.sssha/)](https://www.instagram.com/ji.__.sssha/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yaguu_uu)](https://twitter.com/yaguu_uu) 
 
 📖 Studies : 
+
  [![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/i-love-baseball/p-cc1257d8485b4535b2bbb6bc36302bc3) [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&link=https://li13rary.tistory.com/)](https://li13rary.tistory.com/)  
 
 ---

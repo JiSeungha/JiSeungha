@@ -4,7 +4,7 @@
 📞 Contacts : 
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jish0210@gmail.com)](mailto:jish0210@gmail.com) [![Instagram Badge](
- https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ji.__.sssha/)](https://www.instagram.com/ji.__.sssha/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yaguu_uu)](https://twitter.com/yaguu_uu) 
+ https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ji.__.sssha/)](https://www.instagram.com/ji.__.sssha/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yaguu_uu)](https://twitter.com/yaguu_uu) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungha-ji-b66495290/)](https://www.linkedin.com/in/seungha-ji-b66495290/)
 
 📖 Studies : 
 
@@ -30,12 +30,7 @@ ML
 
 - Graphics
 - Computer Vision
-- Front-end
-- Machine Learning
-- Deep Learning
-- Computer Security
-- Financial Security
-- Block Chain & NFTs
+- ML/DL
 
 
 ---
